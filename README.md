@@ -2,7 +2,7 @@
 
 ## Aluno
 - **Nome:** Manuela Lucia Lemes de Castro
-- **LinkedIn:** [Manuela Castro](https://www.linkedin.com/in/pedro-claudino-0566472b9/)
+- **LinkedIn:** [Manuela Castro](https://www.linkedin.com/in/manuela-lemes-castro/)
 - **GitHub:** [manuelalemes](https://github.com/manuelalemes)
   
 ---
